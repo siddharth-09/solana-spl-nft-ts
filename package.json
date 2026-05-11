@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "spl:init": "bun run src/spl/spl_init.ts",
-    "spl:metadata": "bun run src/spl/spl_metadata.ts"
+    "spl:metadata": "bun run /src/spl/spl_metadata.ts",
+    "spl:mint" : "bun run src/spl/spl_mint.ts",
+    "spl:transfer" : "bun run src/spl/spl_transfer.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"
@@ -23,6 +25,7 @@
     "@solana/kit": "^6.9.0",
     "@solana/kit-plugin-rpc": "^0.11.1",
     "@solana/kit-plugin-signer": "^0.10.0",
+    "bs58": "^6.0.0",
     "dotenv": "^17.4.2"
   }
 }

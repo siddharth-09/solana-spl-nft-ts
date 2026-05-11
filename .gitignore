@@ -1,6 +1,7 @@
 # dependencies (bun install)
 node_modules
 
+spl-metadata.json
 # output
 out
 dist
