@@ -144,10 +144,10 @@ Configure your token's metadata in `spl-metadata.json`:
 
 | Operation | Preview |
 |-----------|---------|
-| Init      | ![spl_init](Screenshots/spl_init.png) |
-| Metadata  | ![spl_metadata](Screenshots/spl_metadata.png) |
-| Mint      | ![spl_mint](Screenshots/spl_mint.png) |
-| Transfer  | ![spl_transfer](Screenshots/spl_transfer.png) |
+| Init      | ![spl_init](../../Screenshots/spl_init.png) |
+| Metadata  | ![spl_metadata](../../Screenshots/spl_metadata.png) |
+| Mint      | ![spl_mint](../../Screenshots/spl_mint.png) |
+| Transfer  | ![spl_transfer](../../Screenshots/spl_transfer.png) |
 
 ---
 
